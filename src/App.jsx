@@ -1,7 +1,7 @@
 import { Fragment, useState } from 'react'
 import './App.css'
-import Header from './components/header'
-import Game from './components/Game'
+
+
 
 function App() {
 
